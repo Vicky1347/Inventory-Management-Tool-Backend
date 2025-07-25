@@ -95,17 +95,9 @@ JWT_SECRET=your_jwt_secret_key
 <pre><code>python tester/test.py
 </code></pre>
 
-<hr />
 
-<h2>🧾 API Documentation (Swagger)</h2>
-<p>Deployed Swagger URL:<br>
-<a href="https://inventory-management-tool-backend-production.up.railway.app/api-docs">
-https://inventory-management-tool-backend-production.up.railway.app/api-docs
-</a></p>
 
-<hr />
-
-<h2>🌐 Hosted API</h2>
+<h2> Hosted API</h2>
 <p>Base URL:<br>
 <a href="https://inventory-management-tool-backend-production.up.railway.app">
 https://inventory-management-tool-backend-production.up.railway.app
@@ -115,4 +107,4 @@ https://inventory-management-tool-backend-production.up.railway.app
 
 <h2> Author</h2>
 <p>Vicky Kumar</p>
-<p>vickykumar1347@gmail.com</p>
+<p> email:- vickykumar1347@gmail.com</p>
