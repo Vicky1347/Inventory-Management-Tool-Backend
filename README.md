@@ -85,7 +85,7 @@ JWT_SECRET=your_jwt_secret_key
 
 <hr />
 
-<h2>🧪 Running Tests (Python)</h2>
+<h2> Running Tests (Python)</h2>
 
 <h3>1. Install Requests Library</h3>
 <pre><code>pip install requests
